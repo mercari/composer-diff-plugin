@@ -2,7 +2,7 @@
     "name": "mercari/composer-diff-plugin",
     "description": "composer plugin to show library version diff at \"composer update\"",
     "type": "composer-plugin",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "Hiraku NAKANO",

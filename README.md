@@ -25,3 +25,10 @@ Uninstall
 ```bash
 $ composer global remove mercari/composer-diff-plugin
 ```
+
+License
+---------------
+
+Copyright 2016 Mercari, Inc.
+
+Licensed under the MIT License
