@@ -1,0 +1,26 @@
+{
+    "name": "mercari/composer-diff-plugin",
+    "description": "composer plugin to show library version diff at \"composer update\"",
+    "type": "composer-plugin",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Hiraku NAKANO",
+            "email": "hiraku@mercari.com"
+        }
+    ],
+    "require": {
+        "composer-plugin-api": ">=1.0.0-alpha10"
+    },
+    "require-dev": {
+        "composer/composer": "1.0.0-alpha10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mercari\\ComposerDiffPlugin\\": "src/"
+        }
+    },
+    "extra": {
+        "class": "Mercari\\ComposerDiffPlugin\\DiffPlugin"
+    }
+}
