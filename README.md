@@ -32,3 +32,12 @@ License
 Copyright 2016 Mercari, Inc.
 
 Licensed under the MIT License
+
+Contribution
+--------------
+
+Fork the project, create a feature branch, and send us a pull request.
+
+Please read the CLA carefully before submitting your contribution to Mercari.
+
+https://www.mercari.com/cla/
