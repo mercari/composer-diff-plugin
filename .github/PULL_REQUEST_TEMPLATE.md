@@ -3,4 +3,3 @@ Under any circumstances, by submitting your contribution, you are deemed to acce
 
 https://www.mercari.com/cla/
 
-- [ ] I agree
